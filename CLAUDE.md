@@ -1,4 +1,4 @@
-# arbachegit__DiscoverySC
+# DiscoverySC
 
 ## Modularização — guideline canônico
 
